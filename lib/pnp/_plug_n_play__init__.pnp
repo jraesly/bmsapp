@@ -1,0 +1,13 @@
+[globals]
+str="abc"
+num="123"
+mlstr=A\
+B\
+C
+hash.x=1
+hash.y=2
+hash.z=3
+mix="1234567890"
+[routes]
+[maps]
+/map=map

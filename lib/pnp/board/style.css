@@ -1,0 +1,49 @@
+@charset "utf-8";
+#messages {
+border:solid 2px #b7ddf2;
+background:#ebf4fb;
+width:90%;
+padding:14px;
+margin:auto;
+}
+
+#messages h1 {
+font-size:14px;
+font-weight:bold;
+margin-bottom:12px;
+}
+
+#messages cite {
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#messages ol{
+	margin: 0;
+	padding: 0 0 20px 0;
+	list-style-type: none;
+}
+
+#messages li{
+    display: block;
+	margin-bottom: 10px;
+	padding: 10px;
+	background-color: #ffffff;
+}
+
+#messages li p{
+	margin-top: 10px;
+}
+
+.button-link a {
+	border-style: solid;
+	border: 0;
+	text-decoration : none;
+	padding : 5px 14px;
+	background-color: #F1630E;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.button-link a:hover {
+	background-color: #C85304;
+}
