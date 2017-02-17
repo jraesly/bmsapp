@@ -225,10 +225,10 @@ CREATE TABLE IF NOT EXISTS `appconfig` (
 --
 
 INSERT INTO `appconfig` (`id`, `setting`, `value`) VALUES
-(1, 'CompanyName', 'BM'),
-(2, 'Email', 'razib@bdinfosys.com'),
+(1, 'CompanyName', 'JR'),
+(2, 'Email', 'john.raesly@gmail.com'),
 (3, 'sysUrl', 'http://localhost/bmsapp'),
-(4, 'caddress', '<strong>BD INFOSYS Limited</strong><br>\r\nAppartment F1 (5th Floor)<br>\r\nHouse # 60 Block # B<br>\r\nRoad # 3,Niketon<br>\r\nGulshan - 1<br>\r\nDhaka - 1212<br>'),
+(4, 'caddress', ''),
 (11, 'appStage', 'Live'),
 (12, 'SoftwareVersion', '3.0.6'),
 (14, 'WebsiteTitle', 'Business Management Application'),
@@ -240,7 +240,7 @@ INSERT INTO `appconfig` (`id`, `setting`, `value`) VALUES
 (28, 'admintheme', 'bmsapp'),
 (29, 'theme', 'bmsapp'),
 (30, 'footerTxt', 'Copyright &copy; 2013-2015 All Rights Reserved'),
-(31, 'BrandName', 'BM'),
+(31, 'BrandName', 'JR'),
 (32, 'defaultclientlanguage', 'English'),
 (33, 'SystemDate', 'd-m-Y');
 
